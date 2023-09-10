@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## 1 java语言概述
+
+### JDK、JRE、JVM的关系
+
+> JDK=JRE+开发工具集(例如javac编译工具等)
+>
+> JRE=JVM+JavaSE标准类库
 
 Work experience
 ======
