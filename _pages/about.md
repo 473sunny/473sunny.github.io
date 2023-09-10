@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "测试修改"
+title: "about"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
