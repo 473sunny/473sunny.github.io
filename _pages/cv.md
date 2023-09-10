@@ -9,21 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-### 进制
+#### foreach循环
 
-**二进制：以0b或0B开头**
-
-**八进制：以0开头**
-
-**十六进制：以0x或0X开头**
+方便遍历集合和数组元素
 
 
 
-#### 进制的转换
+#### switch-case
+
+> **switch(表达式)中表达式的值必须是下述几种类型之一：byte**，**short，char，int，枚举** (jdk 5.0)，String (jdk 7.0)； 
 
 
-
-##### 二进制转十进制
 
 Work experience
 ======
