@@ -17,6 +17,12 @@ redirect_from:
 >
 > JRE=JVM+JavaSE标准类库
 
+### Path变量的作用
+
+> 当前执行的程序在当前目录下如果不存在，windows系统会在系统中已有的一个名为path的环境变量指定的目录中查找。
+
+在系统变量path中添加jdk的bin目录的路径，这样就可以在任何的路径下执行java的工具。
+
 Work experience
 ======
 * Summer 2015: Research Assistant
