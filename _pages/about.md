@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "473sunny is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "测试修改"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
