@@ -22,23 +22,12 @@ Major: **Urban Planning**（Bachelor of Engineering B.E.）
 
 Research Interests
 ======
-Currently, I am conducting research on urban carbon emissions, focusing on the spatial and temporal   
+Currently, I am conducting research on urban carbon emissions, focusing on the spatial and temporal characteristics of carbon emissions from transportation trips in megacities and the mechanisms that influence them. I am using structural equation modeling (SEM) to explore the complex relationship between the built environment and travel behavior.
 
-characteristics of carbon emissions from transportation trips in megacities and the mechanisms that
+I hope to continue working in this field in my future academic career. This includes using mathematical modeling methods, ArcGIS spatial analysis techniques, qualitative analysis methods, and other approaches to measure the spatial differences and distribution characteristics of carbon emissions in different cities and regions. I aim to establish a built environment indicator system for urban carbon emissions and analyze its impact on residents' carbon emissions. The goal is to explore the role of the mechanism of carbon emissions in megacities.
 
- influence them, using structural equation modeling (SEM) to explore the complex relationship between the built 
+Building upon this, I plan to propose corresponding planning strategies and policy recommendations.
 
-environment and travel behavior. I hope to continue to work in this field in my future academic career, such as 
-
-using mathematical modeling methods, ArcGIS spatial analysis techniques, qualitative analysis methods and other 
-
-methods to measure the spatial differences and distribution characteristics of carbon emissions in different cities 
-
-and regions, and establish a built environment indicator system of urban carbon emissions and analyze its impact 
-
-on residents' carbon emissions, to explore the role of the mechanism of carbon emissions of megacities; on this 
-
-basis On the basis of this, corresponding planning strategies and policy recommendations are proposed.
 
 **Please feel free to email me to discuss potential research collaborations.**
 
