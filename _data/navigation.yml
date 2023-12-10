@@ -6,10 +6,9 @@ main:
   - title: "Projects"
     url: /Projects/
 
- - title: "Portfolio"
+  - title: "Portfolio"
     url: /portfolio/
 
-    
   - title: "Awards"
     url: /Awards/    
 
@@ -21,5 +20,3 @@ main:
     
   # - title: "CV"
   #   url: /cv/
-    
-
