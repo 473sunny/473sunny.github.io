@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 **Here is QinShan Xie (谢沁汕).( You can call me Sunny. )  
-I am a senior student studying in the School of Architecture and  
+I am a senior student studying in the School of Architecture and    
  Urban Planning, Guangdong University of technology in China.**  
                                     
 Major: **Urban Planning**（Bachelor of Engineering B.E.）   
