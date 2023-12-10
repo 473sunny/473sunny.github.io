@@ -5,12 +5,14 @@ permalink: /Awards/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+•	第18届“挑战杯”全国大学生课外学术科技作品竞赛    主体赛全国二等奖                第三负责人
+•	第17届“挑战杯”广东大学生课外学术科技作品竞赛    主体赛特等奖                    主要负责人
+•	2022 年全国高等院校大学生乡村规划方案竞赛        佳作奖                          主要负责人
+•	智慧路灯 外观设计专利一项                                                          第一作者
+•	第7届米兰设计周—中国高校设计学科师生优秀作品展   广东赛区二等奖                  第一作者
+•	第10届、第11届未来设计师全国高校数字艺术设计大赛 广东赛区二等奖、三等奖          第一作者
+•	2020 年多彩乡村主题系列教育活动                    省级优秀奖                      第一负责人
+•	第十一届“挑战杯”广东工业大学学生创业计划竞赛     铜奖                            第一负责人
+•	全国大学生节能减排社会实践与科技竞赛               选拔赛二等奖                    第一负责人
+•	连续四年获得广东工业大学优秀学生奖学金     (2019-2020)、（2020-2021）、(2021-2022)、（2022-2023）
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
