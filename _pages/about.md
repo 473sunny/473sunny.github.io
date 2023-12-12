@@ -30,7 +30,7 @@ Currently, I am conducting research on urban carbon emissions, focusing on the s
 Internship
 ======
 **GPS 广州市都市动态调查［香港科技大学（广州）］**    
-• 访员                                                  **2023.08-2023.11**    
+• 访员                                                                       **2023.08-2023.11**    
 • 督导                                                  **2023.11-**    
 
 **广州市城市规划勘测设计研究院**                       **2023.06-2023.09**    
