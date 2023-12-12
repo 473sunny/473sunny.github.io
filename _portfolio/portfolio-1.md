@@ -1,6 +1,6 @@
 ---
 title: "归卧云山陲"
-excerpt: "归卧云山陲<br/><img src='/images/归卧云山陲.jpg' width="100%" height="600px">"
+excerpt: "归卧云山陲<br/><img src='/images/归卧云山陲.jpg'>"
 collection: portfolio
 ---
 
