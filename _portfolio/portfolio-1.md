@@ -1,6 +1,6 @@
 ---
 title: "归卧云山陲"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "归卧云山陲<br/><img src='/images/归卧云山陲.jpg'>"
 collection: portfolio
 ---
 
