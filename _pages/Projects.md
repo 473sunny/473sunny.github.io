@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<strong>College Student Innovative Entrepreneurship Programme,</strong> Project Leader &nbsp;&nbsp;&nbsp; *Sept 2021 – 2023*
+<strong>College Student Innovative Entrepreneurship Programme,</strong> Project Leader &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; *Sept 2021 – 2023*
 
 **Mechanisms Affecting Carbon Emissions from Traveling in Mega-Cities and the Construction of Zero-Carbon Communities**
 
@@ -25,7 +25,7 @@ redirect_from:
   contributing significantly to emission reduction efforts.
 - Designed the zero-carbon community in Keziling, Guangzhou, and won several high-level design competition awards.
 
-<strong>Guangdong "Climbing Programme": Study on the Path of Returning Entrepreneurial Elites to Promote Rural Revitalisation,</strong> Second Person in Charge  &nbsp;&nbsp;&nbsp; *Sept 2021 – 2023*
+<strong>Guangdong "Climbing Programme": Study on the Path of Returning Entrepreneurial Elites to Promote Rural Revitalisation,</strong> Second Person in Charge  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sept 2021 – 2023*
 
 - Spearheaded the "Three Visits to the Countryside" initiative for three consecutive years, organizing and leading field
   research expeditions in Meizhou City's rural areas.
@@ -37,7 +37,7 @@ redirect_from:
 - Crafted the primary research report and formulated a comprehensive rural planning program based on gathered insights
   and analyses.
 
-<strong>College Student Innovative Entrepreneurship Programme, </strong>Second Person in Charge  &nbsp;&nbsp;&nbsp; *Sept 2021 – 2023*
+<strong>College Student Innovative Entrepreneurship Programme, </strong>Second Person in Charge  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;*Sept 2021 – 2023*
 
 **Carbon-Free Pavement Facility-Integrated Power Streetlight Based on 5G + AI Energy Capture Fusion Relay Technology**
 
