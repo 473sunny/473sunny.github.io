@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<strong>College Student Innovative Entrepreneurship Programme,</strong> Project Leader<br>  *Sept 2021 – 2023*
+<strong>College Student Innovative Entrepreneurship Programme,</strong> Project Leader<br>          *Sept 2021 – 2023*
 
 **Mechanisms Affecting Carbon Emissions from Traveling in Mega-Cities and the Construction of Zero-Carbon Communities**
 
