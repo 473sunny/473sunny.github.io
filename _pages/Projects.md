@@ -8,38 +8,21 @@ redirect_from:
 ---
 
 
-**超大城市居民出行碳排放的影响机制及零碳社区建设**                 **2021 - 2023**
+## GPS Guangzhou Urban Dynamics Survey, HKUST (Guangzhou), Visitor&Supervisor  
+*Aug 2023 – Nov 2023*
 
-- 指导老师：蔡云楠（教授）、吴蓉（副教授）
+- Communicated with community neighborhood committees, mapped communities prior to visits.
+- Coordinated visits to households, deployed questionnaires, interviewed and trained visitors, etc.
 
-- 大学生创新创业项目立项、结题（第一负责人）                                
+## Guangzhou Urban Planning, Survey and Design Institute, Intern Assistant  
+*Mar 2023 – June 2023*
 
-    - 前期主要负责文献综述、问卷设计、派发、回收并统计整理1491份问卷
+- Managed daily tasks involving geographic information data crawling, collation, and related responsibilities within the organization.
+- Played a key role in the rural planning project of Hukuang Town, focused on node design.
+- Contributed to model construction, rendering, and associated project tasks.
 
-    - 中期主要负责建成环境指标的获取和整理、数据的无量纲化、结构方程模型中的变量探究
+## Investigation Activities of Guangdong Bureau of Statistics, Co-leader  
+*June 2022 – Dec 2022*
 
-    - 后期主要负责零碳社区设计，并获得多项高水平设计竞赛奖项
-
-**返乡创业精英推动乡村振兴的路径研究**                        **2021-2023**
-
-- 指导老师：范建红（教授）、张曦文（副教授） 
-
-- 广东省“攀登计划”立项（第二负责人）                                  
-
-    - 连续三年作为“三下乡”活动第一负责人赴梅州市乡村实地调研
-
-    - 前期主要负责问卷及访谈的设计、派发、回收并统计整理
-
-    - 中期主要负责相关政策梳理、借助SPSS和AMOS软件对影响因素模型进行实证检验
-
-    - 后期主要调研报告撰写、规划方案设计
-
-**基于 5G + AI 能源捕获融合继电技术的无碳式路面设施一体供电路灯**           **2021-2023**
-
-- 指导老师：高虹圆（教授）
-
-- 大学生创新创业项目立项、结题（第二负责人）
-
-    - 主要负责产品外观设计
-
-
+- Participated in joint research activities with the Provincial Youth League Committee.
+- Conducted field research in Meizhou City and developed the questionnaire data for the special investigation.
