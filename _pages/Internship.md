@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Internship"
+permalink: /Internship/
 author_profile: true
 
 ---
