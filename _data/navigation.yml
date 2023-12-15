@@ -7,13 +7,13 @@ main:
     url: /Projects/
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: /Portfolio/
 
   - title: "Awards"
     url: /Awards/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Internship"
+    url: /Internship/    
       
   # - title: "Blog Posts"
   #   url: /year-archive/
