@@ -26,7 +26,7 @@ redirect_from:
   contributing significantly to emission reduction efforts.
 - Designed the zero-carbon community in Keziling, Guangzhou, and won several high-level design competition awards.
 
-## Guangdong "Climbing Programme": Study on the Path of Returning Entrepreneurial Elites to Promote Rural Revitalisation, Second Person in Charge
+<strong>Guangdong "Climbing Programme": Study on the Path of Returning Entrepreneurial Elites to Promote Rural Revitalisation,</strong> Second Person in Charge
 *Sept 2021 – 2023*
 
 - Spearheaded the "Three Visits to the Countryside" initiative for three consecutive years, organizing and leading field
@@ -39,7 +39,7 @@ redirect_from:
 - Crafted the primary research report and formulated a comprehensive rural planning program based on gathered insights
   and analyses.
 
-## College Student Innovative Entrepreneurship Programme, Second Person in Charge
+<strong>College Student Innovative Entrepreneurship Programme, </strong>Second Person in Charge
 *Sept 2021 – 2023*
 
 **Carbon-Free Pavement Facility-Integrated Power Streetlight Based on 5G + AI Energy Capture Fusion Relay Technology**
