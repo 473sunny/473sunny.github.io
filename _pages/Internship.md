@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Internship"
 permalink: /Internship/
 author_profile: true
